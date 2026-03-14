@@ -1,0 +1,77 @@
+feature,mutual_info
+overall_risk_score,0.13383202549820905
+contract_tenure_interaction,0.10366753552035335
+contract_length_score,0.09944205168091935
+Contract_Month-to-month,0.09059648659486808
+early_termination_risk,0.08531673664610695
+services_charges_interaction,0.08505282993311569
+spend_volatility,0.08311990217120968
+TechSupport_No,0.07186244410875964
+tenure_bucket,0.0711685736490677
+tenure_years,0.07100753911764546
+lifecycle_stage,0.06798076455973434
+service_bundle_score,0.06731406474514068
+tenure_risk_score,0.06638671622582315
+Contract_Two year,0.06466379147257317
+OnlineSecurity_No,0.06281846741122243
+tenure_sqrt,0.06250856140207861
+internet_service_level,0.055356067356051586
+InternetService_Fiber optic,0.0530553123024915
+tenure_charges_interaction,0.05301450009887443
+PaymentMethod_Electronic check,0.05123213533783244
+avg_monthly_spend,0.04613862939456048
+monthly_charges_squared,0.04520799123877883
+total_charges,0.044023048469200354
+monthly_charges,0.04334969739907257
+total_charges_log,0.04252625988843728
+long_term_customer,0.04136818124550912
+payment_risk_score,0.04128632076805383
+InternetService_No,0.03773190274963922
+OnlineBackup_No,0.03728494426866669
+OnlineSecurity_No internet service,0.03723152887559644
+TechSupport_No internet service,0.036168042624103336
+spend_per_tenure,0.035928075040840834
+has_internet,0.03549034207539692
+DeviceProtection_No internet service,0.03439182101669247
+StreamingMovies_No internet service,0.03351504423908502
+DeviceProtection_No,0.031131916922871206
+tenure_months,0.031085607842960217
+StreamingTV_No internet service,0.03029938508908181
+premium_service_count,0.02901227551980634
+internet_premium_interaction,0.027847954398958485
+streaming_intensity,0.025673569437144383
+paperless_billing,0.025465647778892597
+Contract_One year,0.02428706982005191
+tech_support_dependency,0.023705240160729835
+PaperlessBilling_Yes,0.02245334153335876
+OnlineBackup_No internet service,0.01994621330756874
+has_autopay,0.019814534704294617
+PaperlessBilling_No,0.019435210640729172
+Partner_Yes,0.016597883304945382
+high_spend_flag,0.01616206311310564
+OnlineSecurity_Yes,0.015496554475656898
+PaymentMethod_Bank transfer (automatic),0.014639131182937914
+StreamingTV_No,0.01433005489243322
+Dependents_Yes,0.01358134890890117
+StreamingMovies_Yes,0.011773881955313703
+Partner_No,0.0111795969721169
+Dependents_No,0.0110131326714904
+TechSupport_Yes,0.010868965763860317
+spend_growth_proxy,0.009953779325436729
+service_count,0.00873618938177323
+streaming_service_count,0.007777230991378614
+OnlineBackup_Yes,0.00750150712511144
+InternetService_DSL,0.00716962441324287
+StreamingMovies_No,0.006420062961190132
+has_multiple_lines,0.0063351914197362635
+PaymentMethod_Mailed check,0.00610384388638896
+PaymentMethod_Credit card (automatic),0.006081574169283233
+gender_Male,0.0058899981432778414
+MultipleLines_No phone service,0.005547615007221118
+StreamingTV_Yes,0.005073466208674882
+gender_Female,0.004142791641936094
+DeviceProtection_Yes,0.00015323935583322346
+MultipleLines_No,0.0
+PhoneService_Yes,0.0
+PhoneService_No,0.0
+MultipleLines_Yes,0.0
