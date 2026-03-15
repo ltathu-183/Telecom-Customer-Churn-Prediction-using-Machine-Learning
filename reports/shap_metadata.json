@@ -1,0 +1,23 @@
+{
+  "analysis_date": "2026-03-15T21:57:09.201670",
+  "model_type": "LogisticRegression",
+  "explainer_type": "linear",
+  "sample_size": 1000,
+  "columns_used": {
+    "tenure_column": "spend_per_tenure",
+    "charge_column": "monthly_charges",
+    "contract_column": "contract_length_score"
+  },
+  "top_features": [
+    "contract_tenure_interaction",
+    "internet_service_level",
+    "total_charges_log",
+    "contract_length_score",
+    "avg_monthly_spend",
+    "monthly_charges",
+    "tenure_sqrt",
+    "tenure_risk_score",
+    "tenure_years",
+    "overall_risk_score"
+  ]
+}
