@@ -17,6 +17,7 @@ This project demonstrates a complete end-to-end machine learning system for cust
 - **Business Impact**: ROI analysis and retention strategies
 
 ## 📁 Project Structure
+'''
 telco-churn-ai-system/
 ├── notebooks/ # Jupyter notebooks for exploration
 ├── src/ # Production code
@@ -30,7 +31,7 @@ telco-churn-ai-system/
 ├── dashboard/ # Streamlit dashboard
 ├── reports/ # Analysis reports
 └── README.md # This file
-
+'''
 ## 🚀 Quick Start
 
 ### Prerequisites
